@@ -1,3 +1,3 @@
-# weather-app
+# NextJS Boilerplate
 
-This is a weather application build using Nextjs and ReactJs.
+This is a NextJS Boilerplate having setup of Typescript and Styled-Components.
